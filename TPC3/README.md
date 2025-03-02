@@ -1,5 +1,5 @@
-# TPC1: Escola de Música
-- 📅 **Data**: 19/02/2025
+# TPC3: Gestão de Alunos
+- 📅 **Data**: 02/03/2025
 - 👤 **Aluno**: Gonçalo Antunes Corais, A100599
 <img src="../foto.jpeg" alt="Fotografia" width="200"/>
 
